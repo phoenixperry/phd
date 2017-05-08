@@ -3,11 +3,35 @@
 <plist version="1.0">
 <dict>
 	<key>childOrder</key>
-	<array/>
+	<array>
+		<string>planning</string>
+		<string>supervision_meetings</string>
+	</array>
 	<key>resolutionData</key>
 	<dict>
 		<key>childOrder</key>
-		<dict/>
+		<dict>
+			<key>planning</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515949903.40214598</real>
+				<key>version</key>
+				<dict>
+					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>supervision_meetings</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515949892.95666999</real>
+				<key>version</key>
+				<dict>
+					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
+					<integer>4</integer>
+				</dict>
+			</dict>
+		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>README.md</key>
@@ -64,12 +88,16 @@
 			</dict>
 			<key>timeline.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>515949911.94227898</real>
 				<key>lastModification</key>
-				<real>515949433.40272701</real>
+				<real>515949911.94227898</real>
 				<key>version</key>
 				<dict>
 					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-					<integer>2</integer>
+					<integer>10</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -99,12 +127,12 @@
 		<key>childOrder</key>
 		<dict>
 			<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-			<integer>2</integer>
+			<integer>6</integer>
 		</dict>
 		<key>sheetClusters</key>
 		<dict>
 			<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-			<integer>9</integer>
+			<integer>10</integer>
 		</dict>
 	</dict>
 </dict>

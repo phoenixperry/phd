@@ -8,16 +8,22 @@
 		<dict>
 			<key>02-05-2017.md</key>
 			<dict>
-				<key>explicitUnassignment</key>
-				<true/>
-				<key>firstUnassignment</key>
-				<real>515955072.79378903</real>
 				<key>lastModification</key>
-				<real>515955072.79378903</real>
+				<real>515955072.79137403</real>
 				<key>version</key>
 				<dict>
 					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-					<integer>7</integer>
+					<integer>6</integer>
+				</dict>
+			</dict>
+			<key>proposal and timeline.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>515949968.04060698</real>
+				<key>version</key>
+				<dict>
+					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
+					<integer>3</integer>
 				</dict>
 			</dict>
 		</dict>
@@ -27,6 +33,9 @@
 		<array>
 			<string>02-05-2017.md</string>
 		</array>
+		<array>
+			<string>proposal and timeline.md</string>
+		</array>
 	</array>
 	<key>storeFormatVersion</key>
 	<integer>1</integer>
@@ -35,7 +44,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-			<integer>7</integer>
+			<integer>6</integer>
 		</dict>
 	</dict>
 </dict>

@@ -1,4 +1,9 @@
-# Timeline for Lit review and First Experiment
+Creating and empowering vibrotactile play in physical games 
+
+# 1. Introduction:
+Traditionally, computer games have leveraged 
+
+# Timeline for Lit review and First Experiments
 
 ### Methodology
 Topics: 
@@ -16,7 +21,7 @@ HCI
 * A review of Sensory Inhibition with vibrotactile interfaces 
 Games 
 * Survey of games using vibrotactile feedback in console & mobile games
-	 
+	  
 * Definition of Indie games and survey of Indiegames using vibrotactile games in physical spaces
 
 ### Thrum
@@ -27,6 +32,4 @@ An experiment conducted using the above knowledge
 Timeline: 
 
 Milestones: 
-
-
 
