@@ -1,6 +1,6 @@
 Creating and empowering vibrotactile play in physical games 
 
-# 1. Introduction:
+# Introduction:
 
 Traditionally, computer games have leveraged vibrotactile output in commercial handheld joypads and game controllers. At present, no platform exists to easily facilitate vibrotactile games using Arduino for Independent Games Creators. This PhD explores what is known about using vibrotactile actuators from the field of HCI with the intent to apply this knowledge to the field of games. Through an informed collaboration with independent games designers, common design requirements for haptic physical games and will emerge and be explored and identified. How does what is known in HCI around haptics expand embodied game design possibilities? The aim of this thesis to design an initial framework of both knowledge and open source software for the game community to facilitate creators to create embodied, haptic games. 
 
