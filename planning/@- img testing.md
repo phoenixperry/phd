@@ -1,4 +1,4 @@
 @: img testing
-![me][1] (“pac.png”)
+![me][1]
 
-[1]:	(pac.jpg)
+[1]:	pac.jpg
