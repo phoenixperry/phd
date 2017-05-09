@@ -2,7 +2,7 @@ Creating and empowering vibrotactile play in physical games
 
 # Introduction:
 
-Traditionally, computer games have leveraged vibrotactile output in commercial handheld joypads and game controllers. At present, no platform exists to easily facilitate embodied vibrotactile games for Independent Games Creators. This PhD explores what is known about using vibrotactile actuators from the field of HCI with the intent to apply this knowledge to the field of games. How does what is known in HCI around haptics expand embodied game design possibilities? What innovations in play have yet to be considered in the field of HCI? Through an informed co-design collaboration with independent games designers, common design considerations for vibrotactile physical games and will emerge and be explored and identified. From these collaborations, an initial framework of both knowledge and open source software for the game community will be produced to facilitate game designers to develop embodied, haptic games. 
+Since 1976, computer games have leveraged haptic output in commercial handheld joypads and game controllers.[1] At present, no open source platform exists to easily facilitate embodied vibrotactile games for Independent Games Creators interested in creating physical games. This PhD explores what is known about using vibrotactile actuators from the field of HCI with the intent to apply this knowledge to the field of games. How does what is known in HCI around haptics expand embodied game design possibilities? What innovations in play have yet to be considered in the field of HCI? Through an informed co-design collaboration with independent games designers, common design considerations for vibrotactile physical games and will emerge and be explored and identified. From these collaborations, an initial framework of both knowledge and open source software for the game community will be produced to facilitate game designers to develop embodied, haptic games. 
 
 **Research Questions:**
 1. What is known about the state of vibrotactile interfaces on the skin in HCI?  
@@ -72,7 +72,6 @@ _note each month is counted from the 15 - the 15th_
 
 
 **June - July**
-
 * Interview Heather
 * Submit to Chi Play 
 * Refine, playstest, evaluate each week Heather is here 
@@ -80,24 +79,21 @@ _note each month is counted from the 15 - the 15th_
 
 
 **July - Aug**
-
 * write 20 pages a week and each week hand them off for review 
 
 
 **Sept**
-
 * revise and tighten 20 pages a week 
 
 
 **Nov 1**
-
 * hand off for input / feedback 
 
 
 **Nov 15**
-
 * upgrade 
 
-
+Citations: 
+1.  Mark J. P. Wolf (2008), The video game explosion: a history from PONG to PlayStation and beyond, p. 39, ABC-CLIO, ISBN 0-313-33868-X 
 
 	 
