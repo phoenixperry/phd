@@ -53,7 +53,9 @@ Nov 15th - Possible upgrade date
 _note each month is counted from the 15 - the 15th_ 
 
 **May - June**
-
+  * define & find citations for methodology in HCI that is useful
+* define & find citations for methods from games 
+* craft mixed methods notes
 * Read and make notes on 10 papers a week 
 * Find 10 games examples a week 
 * Fix up the first version of our ideas for Thrum into something more stable than what I have now
