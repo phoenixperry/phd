@@ -31,7 +31,8 @@ Topics:
 * Identification of common use cases 
 * Definition of Indie games and survey of Indiegames using vibrotactile games in physical spaces
 * Identification of common use cases 
-* Development of a matrix for possible exploration based on HCI methods yet to be explore in games  
+* Development of a matrix for possible exploration based on HCI methods yet to be explore in game
+* Develop a matrix of games practices yet to be analyzed in HCI research 
 
 ### Thrum
 * Interview of Heather Kelley about the modalities and experiences she wants to explore
@@ -64,6 +65,7 @@ _note each month is counted from the 15 - the 15th_
 
 **June - July**
 
+* Interview Heather
 * Submit to Chi Play 
 * Refine, playstest, evaluate each week Heather is here 
 * Collect experiment data into useable format 
