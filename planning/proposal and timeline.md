@@ -2,12 +2,12 @@ Creating and empowering vibrotactile play in physical games
 
 # Introduction:
 
-Traditionally, computer games have leveraged vibrotactile output in commercial handheld joypads and game controllers. At present, no platform exists to easily facilitate vibrotactile games using Arduino for Independent Games Creators. This PhD explores what is known about using vibrotactile actuators from the field of HCI with the intent to apply this knowledge to the field of games. Through an informed collaboration with independent games designers, common design requirements for haptic physical games and will emerge and be explored and identified. How does what is known in HCI around haptics expand embodied game design possibilities? The aim of this thesis to design an initial framework of both knowledge and open source software for the game community to facilitate creators to create embodied, haptic games. 
+Traditionally, computer games have leveraged vibrotactile output in commercial handheld joypads and game controllers. At present, no platform exists to easily facilitate embodied vibrotactile games for Independent Games Creators. This PhD explores what is known about using vibrotactile actuators from the field of HCI with the intent to apply this knowledge to the field of games. How does what is known in HCI around haptics expand embodied game design possibilities? What innovations in play have yet to be considered in the field of HCI? Through an informed co-design collaboration with independent games designers, common design considerations for vibrotactile physical games and will emerge and be explored and identified. From these collaborations, an initial framework of both knowledge and open source software for the game community will be produced to facilitate game designers to develop embodied, haptic games. 
 
 **Research Questions:**
-1. What is known about the state of vibrotactile interfaces on the body in HCI?  
-2. How have console, mobile and physical games used haptics on the body in previous games? What are the common design considerations? 
-3. Considering questions one and two, what are the open and unexplored aspects of research that can applied across each field?  
+1. What is known about the state of vibrotactile interfaces on the skin in HCI?  
+2. How have console, mobile and physical games used haptics previously? What are the common design considerations across  these categories? What are the divergent differences between  physical games and console or mobile games? 
+3. Considering questions one and two, what are the open and unexplored aspects of research that can applied across both games and HCI?  
 4. How can these opportunities be leveraged into a technological platform to empower independent developers to explore these domains? 
 
 # Timeline for Lit review and First Experiments
@@ -29,13 +29,17 @@ Topics:
 **Games** 
 * Survey of games using vibrotactile feedback in console & mobile games
 * Identification of common use cases 
-* Definition of Indie games and survey of Indiegames using vibrotactile games in physical spaces
-* Identification of common use cases 
+* Definition of physical Indie games and survey of these games using haptics 
+* Identification of common use cases across categories 
+
+**Mixed Methods Analysis**
 * Development of a matrix for possible exploration based on HCI methods yet to be explore in game
+
 * Develop a matrix of games practices yet to be analyzed in HCI research 
 
 ### Thrum
 * Interview of Heather Kelley about the modalities and experiences she wants to explore
+* Share with her the knowledge matrixes from the literature review
 * Plan and document a co-design session to develop a game 
 * Develop and test the game prototype using the defined methodology 
 * Evaluate was has been learned for phase 2 of the research 
