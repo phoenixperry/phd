@@ -8,22 +8,30 @@
 		<dict>
 			<key>02-05-2017 - Notes from PhD meeting.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516037435.63388199</real>
 				<key>lastModification</key>
-				<real>516037095.50927103</real>
+				<real>516037435.63388199</real>
 				<key>version</key>
 				<dict>
 					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-					<integer>14</integer>
+					<integer>17</integer>
 				</dict>
 			</dict>
 			<key>Untitled.md</key>
 			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>516037426.89278698</real>
 				<key>lastModification</key>
-				<real>516034991.77657199</real>
+				<real>516037426.89278698</real>
 				<key>version</key>
 				<dict>
 					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-					<integer>12</integer>
+					<integer>16</integer>
 				</dict>
 			</dict>
 			<key>proposal and timeline.md</key>
@@ -57,7 +65,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-			<integer>15</integer>
+			<integer>17</integer>
 		</dict>
 	</dict>
 </dict>
