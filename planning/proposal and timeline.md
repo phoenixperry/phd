@@ -50,21 +50,39 @@ Nov 15th - Possible upgrade date
 #### Weekly Milestones: 
 _note each month is counted from the 15 - the 15th_ 
 **May - June **
+
 * Read and make notes on 10 papers a week 
 * Find 10 games examples a week 
 * Fix up the first version of our ideas for Thrum into something more stable than what I have now
 * Rough draft a research paper for Chi Play 
+
+
 **June - July **
+
 * Submit to Chi Play 
 * Refine, playstest, evaluate each week Heather is here 
 * Collect experiment data into useable format 
+
+
 **July - Aug **
+
 * write 20 pages a week and each week hand them off for review 
+
+
 **Sept **
+
 * revise and tighten 20 pages a week 
+
+
 **Nov 1 **
+
 * hand off for input / feedback 
+
+
 **Nov 15**
+
 * upgrade 
+
+
 
 	 
