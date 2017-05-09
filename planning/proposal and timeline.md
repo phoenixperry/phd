@@ -43,12 +43,16 @@ Topics:
 
 ### Timeline: 
 ---- 
-May 15 - June 15th - Collect literature examples and Games examples 
-June 15 - July 15th - Collaboration and initial tests with Heather Kelly 
-July 15 - Aug 15th - Write literature review and results of above experiment  
-Aug 30 - Sept 30 - Revise based on feedback 
-Nov 15th - Possible upgrade date 
- 
+* May 15 - June 15th - Collect literature examples and Games examples 
+
+* June 15 - July 15th - Collaboration and initial tests with Heather Kelly 
+
+*  July 15 - Aug 15th - Write literature review and results of above experiment  
+
+* Aug 30 - Sept 30 - Revise based on feedback 
+
+* Nov 15th - Possible upgrade date 
+	 
 #### Weekly Milestones: 
 ---- 
 _note each month is counted from the 15 - the 15th_ 
