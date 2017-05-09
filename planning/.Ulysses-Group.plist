@@ -9,11 +9,21 @@
 			<key>02-05-2017.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>515955072.79137403</real>
+				<real>516034405.41179502</real>
 				<key>version</key>
 				<dict>
 					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-					<integer>6</integer>
+					<integer>7</integer>
+				</dict>
+			</dict>
+			<key>@- img testing.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>516034472.96424901</real>
+				<key>version</key>
+				<dict>
+					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
+					<integer>10</integer>
 				</dict>
 			</dict>
 			<key>proposal and timeline.md</key>
@@ -31,6 +41,9 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
+			<string>@- img testing.md</string>
+		</array>
+		<array>
 			<string>02-05-2017.md</string>
 		</array>
 		<array>
@@ -44,7 +57,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-			<integer>6</integer>
+			<integer>11</integer>
 		</dict>
 	</dict>
 </dict>
