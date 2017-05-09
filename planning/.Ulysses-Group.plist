@@ -6,24 +6,24 @@
 	<dict>
 		<key>sheetClusters</key>
 		<dict>
-			<key>02-05-2017.md</key>
+			<key>02-05-2017 - Notes from PhD meeting.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516034405.41179502</real>
+				<real>516037095.50927103</real>
 				<key>version</key>
 				<dict>
 					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-					<integer>7</integer>
+					<integer>14</integer>
 				</dict>
 			</dict>
-			<key>@- img testing.md</key>
+			<key>Untitled.md</key>
 			<dict>
 				<key>lastModification</key>
-				<real>516034472.96424901</real>
+				<real>516034991.77657199</real>
 				<key>version</key>
 				<dict>
 					<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-					<integer>10</integer>
+					<integer>12</integer>
 				</dict>
 			</dict>
 			<key>proposal and timeline.md</key>
@@ -41,10 +41,10 @@
 	<key>sheetClusters</key>
 	<array>
 		<array>
-			<string>@- img testing.md</string>
+			<string>Untitled.md</string>
 		</array>
 		<array>
-			<string>02-05-2017.md</string>
+			<string>02-05-2017 - Notes from PhD meeting.md</string>
 		</array>
 		<array>
 			<string>proposal and timeline.md</string>
@@ -57,7 +57,7 @@
 		<key>sheetClusters</key>
 		<dict>
 			<key>2b3ccdd3bda7b33959d714159c212f235f9eca65456899a20519a12c7c0ce3e7</key>
-			<integer>11</integer>
+			<integer>15</integer>
 		</dict>
 	</dict>
 </dict>

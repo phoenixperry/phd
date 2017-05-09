@@ -1,6 +1,5 @@
 
-02/05/2017
-Notes from PhD meeting  
+02/05/2017 - Notes from PhD meeting  
 
 Explained Thrum concept  
 Sound -- is it acting as a cue  
